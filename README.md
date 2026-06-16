@@ -6,6 +6,12 @@ This is the repository for the LinkedIn Learning course `Building an AI Agent wi
 <p>Move beyond simple apps and vibe code a real, working AI agent—entirely from the terminal. In this course, Basia Kubicka teaches you to use Claude Code, the Vercel AI SDK, and a GitHub Codespace to create a sales prospecting agent built on four building blocks: brain, tools, memory, and loop. Connect your agent to Airtable so every action (prospect scores, research results, outreach drafts) lands in a live base you can watch update in real time. Following a test-driven development pattern, you write tests before building each feature so your code is reliable from the start. By the end, you will have a fully functioning agent proof of concept and a clear picture of what it takes to move it to production.</p>
 <p>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace.</p>
 
+# Instructor
+Basia Kubicka
+
+<p>Basia Kubicka has eight years of experience building AI products. </p>
+<p>Basia helps product leaders build the skills they need in the age of AI. Her daily posts on Vibecoding, Rapid Prototyping, and AI offer valuable insights and ideas, while her <a href="https://air-scale.kit.com/newsletter" target="_blank">newsletter</a>presents the exact workflows, prompts, and tools that she uses to build AI products.</p>
+
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/vibe-coding-your-first-ai-agent-with-claude-code
