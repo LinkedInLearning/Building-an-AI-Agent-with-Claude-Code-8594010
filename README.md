@@ -12,7 +12,7 @@ Basia Kubicka
 AI Product Manager | AI Agents | Rapid Prototyping | Vibe Coding
 
 <p>Basia Kubicka has eight years of experience building AI products. </p>
-<p>Basia helps product leaders build the skills they need in the age of AI. Her daily posts on Vibecoding, Rapid Prototyping, and AI offer valuable insights and ideas, while her <a href="https://air-scale.kit.com/newsletter" target="_blank">newsletter</a> presents the exact workflows, prompts, and tools that she uses to build AI products.</p>
+<p>Basia helps product leaders build the skills they need in the age of AI. Her daily posts on Vibecoding, Rapid Prototyping, and AI offer valuable insights and ideas, while her <a href="https://air-scale.kit.com/newsletter" target="_blank">newsletter</a> presents the exact workflows, prompts, and tools that she uses to build AI products.</p> Check out my other courses on LinkedIn Learning. [lil-instructor-url]: https://www.linkedin.com/learning/instructors/basia-kubicka?u=104
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
