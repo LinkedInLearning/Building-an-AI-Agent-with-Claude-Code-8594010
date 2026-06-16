@@ -8,6 +8,7 @@ This is the repository for the LinkedIn Learning course `Building an AI Agent wi
 
 # Instructor
 Basia Kubicka
+
 AI Product Manager | AI Agents | Rapid Prototyping | Vibe Coding
 
 <p>Basia Kubicka has eight years of experience building AI products. </p>
